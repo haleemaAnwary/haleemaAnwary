@@ -2,9 +2,7 @@
 
 **Cybersecurity Student | Threat Hunting · Detection Engineering · Security Automation**
 
-I'm pursuing an **Honours Bachelor of Information Technology (Cybersecurity)** at **Seneca Polytechnic**. My hands-on academic projects focus on investigating security events, simulating attacks in isolated lab environments, validating defensive controls, and building security automation.
-
-I'm interested in **cybersecurity analyst, SOC, and IT/security operations co-op opportunities**.
+I'm pursuing an **Honours Bachelor of Information Technology (Cybersecurity)** at **Seneca Polytechnic**. My hands-on academic projects focus on investigating security events, simulating attacks in isolated lab environments, validating defensive controls, and building security automation.**.
 
 ## Featured projects
 
